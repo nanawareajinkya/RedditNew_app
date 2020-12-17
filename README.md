@@ -1,13 +1,14 @@
-:point_right: React-Reddit-App.
+# React-Reddit-App
 
 Reddit clone written with React and bootstrapped with Create React App.
 
 # Follow the steps to run this project:
 
-:point_right: npm install
+:point_right: step1: npm install
 
 
-:point_right: npm start
+:point_right: stepe2: npm start.
+
 
 :raised_hand: If you have any queries related this project , :pray: free to feel you can ask me.:pray:
 
