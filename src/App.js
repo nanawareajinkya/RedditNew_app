@@ -36,7 +36,7 @@ class App extends Component {
                         handleDownvote={api.downvoteTopic} />
                 </div>
                 <div className='App__footer'>
-                    <a href='https://github.com/joriguzman/react-reddit'>react-reddit</a>
+                    <a href='https://github.com/nanawareajinkya/RedditNew_app'>React-Reddit-App</a>
                 </div>
             </div>
         );
