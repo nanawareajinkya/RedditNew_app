@@ -1,23 +1,19 @@
-# react-reddit
-Reddit clone written with [React](https://facebook.github.io/react) and bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+:point_right: React-Reddit-App.
 
-## Overview
-[react-reddit-jori.herokuapp.com](http://react-reddit-jori.herokuapp.com)
-- Page is initially populated by a list of topics found in [database.js](src/database.js).
-- Top 20 topics by points (upvotes minus downvotes) are displayed by default, sorted by points.
-- You can select All to display all topics, so you can still see a topic even if it is downvoted to oblivion.
-- Username is fixed to 'guest', and submitted topics and votes are done under this user.
-- Newly submitted topics have one upvote when created.
-- Repeated voting can be done.
+Reddit clone written with React and bootstrapped with Create React App.
+
+# Follow the steps to run this project:
+
+:point_right: npm install
 
 
-1. Run npm install
-```
-cd react-reddit
-npm install
-``
+:point_right: npm start
 
-2. To run tests, run npm test
-```
-npm start
-```
+:raised_hand: If you have any queries related this project , :pray: free to feel you can ask me.:pray:
+
+# Email id:
+:e-mail: nanawareajinkya46@gmail.com
+
+# Show Support:
+Give a ⭐️ if this project helpful.
+
