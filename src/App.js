@@ -24,7 +24,7 @@ class App extends Component {
         return (
             <div className='App'>
                 <div className='App__header'>
-                    <span className='App__title'>REACT REDDIT</span>
+                    <span className='App__title'>REACT REDDIT APP</span>
                     <UserProfile username={username} />
                 </div>
                 <div className='App__content'>
