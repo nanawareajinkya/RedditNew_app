@@ -16,7 +16,7 @@ class App extends Component {
 
     static defaultProps = {
         displayType: 'Top',
-        username: 'guest'
+        username: 'Reddit-User'
     }
 
     render() {
